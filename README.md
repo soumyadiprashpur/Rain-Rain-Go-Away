@@ -2,7 +2,7 @@
 
 An intelligent analog-digital wiper control system that automatically adjusts wiper speed based on rainfall intensity. The system features discrete speed levels and precise 180-degree wiper rotation control.
 
-![Circuit Image](https://github.com/soumyadiprashpur/Rain-Rain-Go-Away/blob/main/.assets/rain_rain_1.jpg?raw=true)
+![Circuit Image](https://github.com/user-attachments/assets/bd4b5a73-98e7-44ed-84b0-63a4c5e23f8d)
 
 ## Key Features
 - Fully automated rain detection and speed adjustment
