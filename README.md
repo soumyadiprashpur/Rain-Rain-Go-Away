@@ -1,6 +1,5 @@
-# Automated Rain-Sensing Wiper System
+# Rain Rain Go Away
 
-## Description
 An intelligent analog-digital wiper control system that automatically adjusts wiper speed based on rainfall intensity. The system features discrete speed levels and precise 180-degree wiper rotation control.
 
 ## Key Features
